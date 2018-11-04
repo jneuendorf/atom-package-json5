@@ -9,8 +9,8 @@
     },
     "keywords": [],
     "activationCommands": {},
-    "repository": "https://github.com/atom/package-json5",
-    "bugs": "https://github.com/atom/package-json5/issues",
+    "repository": "https://github.com/jneuendorf/atom-package-json5",
+    "bugs": "https://github.com/jneuendorf/atom-package-json5/issues",
     "license": "MIT",
     "engines": {
         "atom": ">=1.0.0 <2.0.0"
