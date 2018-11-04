@@ -5,7 +5,7 @@
     "description": "A short description of your package",
     "author": {
         "name": "Jim Neuendorf",
-        "url": "https://github.com/jneuendorf"
+        "url": "https://github.com/jneuendorf",
     },
     "keywords": [],
     "activationCommands": {},
@@ -13,9 +13,9 @@
     "bugs": "https://github.com/atom/package-json5/issues",
     "license": "MIT",
     "engines": {
-        "atom": ">=1.0.0 <2.0.0"
+        "atom": ">=1.0.0 <2.0.0",
     },
     "dependencies": {
-        "json5": "^2.1.0"
-    }
+        "json5": "^2.1.0",
+    },
 }

@@ -1,5 +1,5 @@
 # package-json5 package
 
-A short description of your package.
+An Atom package for generating `package.json` from `package.json5` automatically, if it exists.
 
-![A screenshot of your package](https://f.cloud.github.com/assets/69169/2290250/c35d867a-a017-11e3-86be-cd7c5bf3ff9b.gif)
+Whenever you save a `package.json5` file within an Atom project, a `package.json` next to it is automatically created/updated.
