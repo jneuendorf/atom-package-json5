@@ -1,8 +1,8 @@
 {
     "name": "package-json5",
     "main": "./lib/package-json5",
-    "version": "1.0.0",
-    "description": "A short description of your package",
+    "version": "0.0.0",
+    "description": "An Atom package for generating `package.json` from `package.json5` automatically",
     "author": {
         "name": "Jim Neuendorf",
         "url": "https://github.com/jneuendorf"
